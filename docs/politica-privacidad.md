@@ -2,7 +2,7 @@
 
 **Última actualización:** 11 de agosto de 2026  
 **Aplicación:** Recordis (`com.recordis.app`)  
-**Contacto:** [TU_CORREO@ejemplo.com](mailto:TU_CORREO@ejemplo.com)
+**Contacto:** neiverak@gmail.com
 
 ---
 
