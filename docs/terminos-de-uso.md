@@ -25,7 +25,7 @@ Recordis es una herramienta **personal y offline** para organizar información q
 Queda permitido el uso **personal y no comercial** de la app. Eres responsable de:
 
 - La veracidad y legalidad del contenido que guardes (textos, fotos, enlaces, datos de emergencia, etc.).
-- Mantener copias de seguridad si la información es importante para ti.
+- Hacer copias por tu cuenta si la información es importante (Recordis no incluye exportación de datos).
 - Proteger el acceso a tu dispositivo (PIN del sistema, bloqueo de pantalla, etc.).
 
 Queda prohibido usar Recordis para actividades ilegales o para almacenar contenido que vulnere derechos de terceros.
@@ -44,7 +44,7 @@ El desarrollador no garantiza que los recordatorios, notificaciones o datos guar
 
 En la medida permitida por la ley aplicable, el desarrollador **no será responsable** de:
 
-- Pérdida, corrupción o filtración de datos causada por el uso de la app, desinstalación, olvido del PIN, fallos del dispositivo o backups no realizados por el usuario.
+- Pérdida, corrupción o filtración de datos causada por el uso de la app, desinstalación, olvido del PIN, fallos del dispositivo o restablecimiento del teléfono.
 - Decisiones o acciones tomadas con base en la información guardada en la app (incluidos datos de emergencia médica).
 - Contenido, disponibilidad o prácticas de sitios web de terceros abiertos desde enlaces guardados en la app.
 
