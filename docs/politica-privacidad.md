@@ -72,17 +72,15 @@ Si activas el bloqueo por PIN:
 
 - El PIN se guarda **hasheado** en el dispositivo.
 - No lo conocemos ni podemos recuperarlo por ti.
-- Si lo olvidas, deberás reinstalar la app o restablecer datos (según tu copia de seguridad).
+- Si lo olvidas, deberás reinstalar la app o restablecer los datos en Ajustes.
 
 ---
 
-## 7. Copias de seguridad
+## 7. Almacenamiento solo en el dispositivo
 
-Puedes exportar un archivo `.zip` con la base de datos e imágenes. Ese archivo:
+Tus datos **no se sincronizan en la nube** ni se exportan automáticamente. Permanecen en el almacenamiento privado de la app en tu teléfono o tablet.
 
-- Se guarda en el **almacenamiento privado** de la app.
-- **Tú decides** si lo copias, compartes o eliminas.
-- El desarrollador no tiene acceso a tus backups.
+**Importante:** si desinstalas Recordis, restableces el teléfono o usas **Restablecer base de datos** en Ajustes, **perderás la información** guardada. El desarrollador no puede recuperarla por ti.
 
 ---
 
@@ -96,7 +94,7 @@ Recordis permite guardar datos de referencia personal (alergias, contactos, etc.
 
 ## 9. Enlaces externos
 
-Si guardas enlaces (por ejemplo, de regalos), la app puede abrirlos con el navegador del sistema (`url_launcher`). Esas páginas tienen **sus propias** políticas de privacidad.
+Si guardas enlaces (por ejemplo, de regalos), la app puede abrirlos con el navegador del sistema. Esas páginas tienen **sus propias** políticas de privacidad.
 
 ---
 
@@ -117,9 +115,8 @@ Podemos actualizar esta página para reflejar cambios en la app. La fecha de “
 Como los datos están en tu dispositivo, tú puedes en cualquier momento:
 
 - Editar o eliminar registros dentro de la app
-- Exportar una copia de seguridad
 - Restablecer la base de datos en **Ajustes → Gestión de datos**
-- Desinstalar la app (elimina los datos locales salvo backups que hayas guardado fuera)
+- Desinstalar la app (elimina todos los datos locales)
 
 ---
 
